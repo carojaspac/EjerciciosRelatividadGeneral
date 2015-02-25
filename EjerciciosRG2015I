@@ -1,0 +1,12 @@
+
+\documentclass[english]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage{babel}
+\begin{document}
+
+\title{Ejercicios de Relatividad General 2015-I}
+
+\maketitle
+1. Topologia Producto. Mostrar que...
+\end{document}
